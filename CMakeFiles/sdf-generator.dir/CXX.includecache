@@ -9,4 +9,6 @@
 /home/lil/git/marching/shader-sdf-generator/src/main.cpp
 iostream
 -
+cmath
+-
 
