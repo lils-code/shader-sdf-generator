@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lil/git/marching/shader-sdf-generator/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/sdf-generator.dir/src/main.cpp.o -c /home/lil/git/marching/shader-sdf-generator/src/main.cpp",
+  "file": "/home/lil/git/marching/shader-sdf-generator/src/main.cpp"
+}
+]

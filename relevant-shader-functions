@@ -1,0 +1,5 @@
+a-
+    abs-
+        - genType abs(genType x);
+        - genIType abs(genIType x);
+        - genDType abs(genDType x);
